@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kross | Hugo Portfolio Template</title>
-    <link>https://kross.netlify.com/</link>
-    <description>Recent content on Kross | Hugo Portfolio Template</description>
+    <title>Relectric Car Team</title>
+    <link>https://teamrelectric.ca/</link>
+    <description>Recent content on Relectric Car Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://kross.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://teamrelectric.ca/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
