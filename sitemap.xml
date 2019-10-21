@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://teamrelectric.ca/team/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://teamrelectric.ca/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
@@ -23,11 +18,27 @@
   </url>
   
   <url>
-    <loc>https://teamrelectric.ca/categories/</loc>
+    <loc>https://teamrelectric.ca/team/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teamrelectric.ca/projects/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://teamrelectric.ca/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teamrelectric.ca/projects/test/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teamrelectric.ca/categories/</loc>
   </url>
   
   <url>
