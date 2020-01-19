@@ -243,6 +243,14 @@ a:hover {
   background-repeat: repeat-y;
 }
 
+@media screen and (max-width: 768px) {
+  .bg-cover {
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+  }
+}
+
 .overlay {
   position: relative
 }
